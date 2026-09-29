@@ -7,3 +7,4 @@ Naxor es un proximo modelo de Inteligencia Artificial diseñado para conectarse 
 * Conexion Directa: Integracion simplificada a traves de API sin configuraciones complejas de autenticacion de tokens.
 * Modelo de IA Integrado: Procesamiento inteligente y optimizado para responder a traves del flujo de datos de la API.
 * Proximamente: El proyecto se encuentra actualmente en fase de desarrollo.
+* aun no se decide si sera unja IA local o conectada a API pero queremos que sea similar a OPENCODE
